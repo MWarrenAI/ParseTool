@@ -32,7 +32,7 @@ def clearpage():
 def selopt():
     optmenu()
     opt = 0
-    whilte opt == 0:
+    while opt == 0:
         try:
             opt = int(input("Enter a option from the above:"))
             if opt < 1 or opt > 3:
