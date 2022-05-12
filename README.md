@@ -38,16 +38,21 @@ Comments include these sources within.
 
 ### Bugs and Fixes
 
-- Minor spelling errors and changes to the code to suit a new XML file
-- A generic Pickle file is to be made
+As of 12.05.2022:
+The Program will not work without a fully made Pickles.xml schema and data: I intend to generate one for the purposes of testing.
 
 #### Known Bugs
 
-- Pickle File yet to have contents
+- Minor spelling errors and changes to the code to suit a new XML file.
+- Pickle File yet to have contents.
 
 #### Possible Improvements
 
-- Add Pickle File Contents
+- Add Pickle File Contents.
+
+#### Fixes
+
+- Removed code irrelevant to current schema planned.
 
 ### First Time Running Instructions
 
