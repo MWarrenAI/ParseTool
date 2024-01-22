@@ -7,12 +7,11 @@
 #A handy piece of code for clearing the screen provided by Grepper (credit to Expensive Eagle):
 #https://www.codegrepper.com/code-examples/python+os.system+clear+screen
 
-# Author: 		Mark Warren
-# Company: 		Staffordshire University
-# Date:			12/05/2022
-# Purpose:		A General Purpose built Program that removes whitespace found in between data. This file stores the menu.
-# Version: 		1.0
-# Software: 	Python 3.8
+# Author: Mark Warren
+# Date:	12/05/2022
+# Purpose: A General Purpose built Program that removes whitespace found in between data. This file stores the menu.
+# Version: 1.0
+# Software: Python 3.8
 # Dependancies:	csv, itertools, sys, os, system, name, Parsecom
 
 # Note: This was salvaged from a fully functioning program I developed and I have remade this in case I wish to build upon the tool further.
